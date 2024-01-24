@@ -469,6 +469,7 @@ section {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
@@ -482,7 +483,7 @@ section {
   margin-top: -2px;
   border-left: 2px solid #1f5297;
   position: relative;
-  display: inline-block;
+  
 }
 
 .resume .resume-item h4 {
@@ -506,6 +507,7 @@ section {
 
 .resume .resume-item ul {
   padding-left: 20px;
+  float:right;
 }
 
 .resume .resume-item ul li {
